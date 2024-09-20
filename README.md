@@ -1,1 +1,1 @@
-# STA302_assignment3
+# JINGYI ZHU Class Reflection Exercise3
